@@ -1,8 +1,8 @@
-# 👩🏻‍💻 Carina Backes
+# Hi There!
 
 **`Desenvolvedora FullStack`** **`UI/UX Design`**
 
-Me chamo Carina, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na ETEP, com o curso técnico em informática em 2018. Atualmente, estou cursando Sistemas de Informação na Unisinos e atuo nas áreas de tecnologia e atendimento ao cliente a quase 10 anos. Sou uma desenvolvedora FullStack que encontrou no design uma forma de unir criatividade e propósito. Possuo conhecimentos em UI/UX Design, com experiência em prototipação, criação de fluxos de navegação, design de interfaces e aplicação de princípios de usabilidade e Design Systems.
+Olá! Me chamo Carina, tenho 26 anos e sou natural do Rio Grande do Sul. Concluí o ensino médio na ETEP, com o curso técnico em informática em 2018. Atualmente, estou cursando Sistemas de Informação na Unisinos e atuo nas áreas de tecnologia e atendimento ao cliente a quase 10 anos. Sou uma desenvolvedora FullStack que encontrou no design uma forma de unir criatividade e propósito. Possuo conhecimentos em UI/UX Design, com experiência em prototipação, criação de fluxos de navegação, design de interfaces e aplicação de princípios de usabilidade e Design Systems.
 
 <p align="left">
     </a> 
